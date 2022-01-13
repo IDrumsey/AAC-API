@@ -1,0 +1,12 @@
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\bin\Debug\net5.0\AnimalAdoptionCenterModels.deps.json
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\bin\Debug\net5.0\AnimalAdoptionCenterModels.dll
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\bin\Debug\net5.0\ref\AnimalAdoptionCenterModels.dll
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\bin\Debug\net5.0\AnimalAdoptionCenterModels.pdb
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.AssemblyInfoInputs.cache
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.AssemblyInfo.cs
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.csproj.CoreCompileInputs.cache
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.dll
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\ref\AnimalAdoptionCenterModels.dll
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.pdb
+C:\Users\Clay\Desktop\Me\CS\Web Development\Projects\AnimalAdoptionCenter\AnimalAdoptionCenterModels\obj\Debug\net5.0\AnimalAdoptionCenterModels.csprojAssemblyReference.cache
